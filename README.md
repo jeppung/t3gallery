@@ -1,8 +1,8 @@
 # T3 Gallery
 
 ## TODO
-- [ ] Make it deploy
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deploy
+- [x] Scaffold basic ui with mock data
 - [ ] Actually setup a database (vercel postgres)
 - [ ] Attach db to UI
 - [ ] Add authentication (w/ clerk)
